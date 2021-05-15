@@ -1,0 +1,50 @@
+        
+            h1 {
+                color: brown;
+            }
+            
+            .header {
+                background-color: aqua;
+                display: flex;
+                justify-content: space-between;
+            }
+
+            .site-description {
+                background-color: rgb(202, 150, 19);
+                display: flex;
+                justify-content: space-evenly;
+            }
+            
+            .GAME1 {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+            .p1 {
+                display: flex;
+                flex-flow: column wrap;
+                justify-content: center;
+            } 
+
+
+            .p2 {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+
+            .GAME2 {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-evenly;
+            }
+
+            .networking-site {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: flex-end;
+            }
+
+            p,h2 {
+                text-align: center;
+            }
